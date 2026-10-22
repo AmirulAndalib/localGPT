@@ -1,7 +1,7 @@
 PyMuPDF
 Pillow
-transformers==4.51.0
-torch==2.4.1
+transformers==5.10.1
+torch==2.13.0
 torchvision==0.19.1
 torchaudio
 lancedb
